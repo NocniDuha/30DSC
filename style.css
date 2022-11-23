@@ -1,0 +1,88 @@
+body {
+  background: #32064e;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 98%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Sofia", sans-serif;
+}
+
+a {
+  color: #32064e;
+}
+
+a:visited {
+  color: #d3d3d3;
+}
+
+footer {
+  color: white;
+  align-text: center;
+  width: 90%;
+}
+
+footer>a {
+color: white;
+}
+
+.card {
+  width: 30%;
+  min-width: 300px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 5px;
+  text-align: center;
+  border: 2px solid;
+	border-radius: 8px;
+  background: rgb(204,169,255);
+
+background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 100%););
+ }
+
+.card:hover {
+  border-color: white;
+  background: rgb(204,169,255);
+  background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(123,207,240,1) 100%);
+}
+
+.descr {
+  font-size: 110%;
+  font-style: italic;
+}
+
+
+#moreD1 {
+  display: none;
+  padding: 5px;
+}
+
+#moreD2 {
+  display: none;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media screen and (max-width: 500px) {
+  .cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+  }
+
+}
