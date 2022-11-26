@@ -183,7 +183,7 @@ var clickD10 = document.getElementById("d10");
 var moreD10 = document.getElementById("moreD10");
 var card10 = document.getElementById("card10");
 
-function day1 () {
+function day10 () {
 if (moreD10.style.display === "none") {
     moreD10.style.display = "inline";
     clickD10.innerHTML = "Schovat";
