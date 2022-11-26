@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  color: white;
+  color: #c5abff;
   text-align: center;
   font-family: 'Oooh Baby', cursive;
   font-size: 52px;
@@ -28,13 +28,13 @@ a:visited {
 }
 
 footer {
-  color: white;
+  color: #c5abff;
   align-text: center;
   width: 90%;
 }
 
 footer>a {
-color: white;
+color: #c5abff;
 }
 
 .card {
