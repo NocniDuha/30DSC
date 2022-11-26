@@ -26,7 +26,7 @@ var card2 = document.getElementById("card2");
 function day2 () {
 if (moreD2.style.display === "none") {
     moreD2.style.display = "inline";
-    clickD1.innerHTML = "Schovat";
+    clickD2.innerHTML = "Schovat";
   } else {
     moreD2.style.display = "none";
     clickD2.innerHTML = "Ukázat";
