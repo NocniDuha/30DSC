@@ -62,12 +62,27 @@ background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 
 }
 
 
-#moreD1 {
-  display: none;
-  padding: 5px;
-}
-
-#moreD2 {
+#moreD1,
+#moreD2,
+#moreD3,
+#moreD4,
+#moreD5,
+#moreD6,
+#moreD7,
+#moreD8,
+#moreD9,
+#moreD10,
+#moreD11,
+#moreD12,
+#moreD13,
+#moreD14,
+#moreD15,
+#moreD16,
+#moreD17,
+#moreD18,
+#moreD19,
+#moreD20
+ {
   display: none;
   padding: 5px;
 }
