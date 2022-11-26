@@ -12,7 +12,7 @@ h1 {
   color: #c5abff;
   text-align: center;
   font-family: 'Oooh Baby', cursive;
-  font-size: 52px;
+  font-size: 30px;
 }
 
 h2 {
@@ -54,7 +54,7 @@ border: 1px solid #c5abff;
 background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 100%););
  }
 
-.card:hover {
+.card:click {
   border-color: white;
   background: rgb(204,169,255);
   background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(123,207,240,1) 100%);
@@ -98,9 +98,15 @@ background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 
   justify-content: center;
 }
 
-@media screen and (max-width: 799px) {
+@media screen and (min-width: 800px) {
   h1 {
-    font-size: 30px;
+    font-size: 52px;
   }
+
+.card:hover {
+  border-color: white;
+  background: rgb(204,169,255);
+  background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(123,207,240,1) 100%);
+}
 
 }
