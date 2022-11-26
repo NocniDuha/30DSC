@@ -69,6 +69,7 @@ background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 
 
 #moreD2 {
   display: none;
+  padding: 5px;
 }
 
 .cards {
