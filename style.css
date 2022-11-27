@@ -54,7 +54,7 @@ border: 1px solid #c5abff;
 background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 100%););
  }
 
-.card: active {
+.card :active {
   border-color: white;
   background: rgb(204,169,255);
   background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(123,207,240,1) 100%);
