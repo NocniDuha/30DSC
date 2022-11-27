@@ -3,10 +3,10 @@
     font-size: 52px;
   }
 
-.card:hover {
+/*.card:hover {
   border-color: white;
   background: rgb(204,169,255);
-  background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(123,207,240,1) 100%);
+  background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(123,207,240,1) 100%);*/
 }
 
 }
