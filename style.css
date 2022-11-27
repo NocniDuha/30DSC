@@ -48,10 +48,10 @@ border: 1px solid #c5abff;
   margin: 5px;
   text-align: center;
   border: 2px solid;
-	border-radius: 8px;
+  border-radius: 8px;
   background: rgb(204,169,255);
-
-background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 100%););
+  background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 100%););
+  cursor: pointer;
  }
 
 .card:hover {
@@ -85,7 +85,8 @@ background: radial-gradient(circle, rgba(204,169,255,1) 10%, rgba(120,88,139,1) 
 #moreD17,
 #moreD18,
 #moreD19,
-#moreD20
+#moreD20,
+#moreD21
  {
   display: none;
   padding: 5px;
