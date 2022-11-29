@@ -6,7 +6,6 @@ body {
   align-items: center;
   text-align: center;
   width: 98%;
-color: #c5abff;
 }
 
 h1 {
@@ -45,6 +44,7 @@ border: 1px solid #c5abff;
 .main {
 text-align: justify;
 color: #c5abff;
+padding: 5px;
 }
 
 .card {
