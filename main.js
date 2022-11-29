@@ -95,7 +95,7 @@ if (moreD5.style.display === "none") {
 
 function outD5 () {moreD5.style.display = "none"; clickD5.innerHTML = "Ukázat";}
 
-clickD5.addEventListener("click", day5, false);
+card5.addEventListener("click", day5, false);
 card5.addEventListener("mouseleave", outD5, false);
 
 // Karta den 6//
@@ -115,7 +115,7 @@ if (moreD6.style.display === "none") {
 
 function outD6 () {moreD6.style.display = "none"; clickD6.innerHTML = "Ukázat";}
 
-clickD6.addEventListener("click", day6, false);
+card6.addEventListener("click", day6, false);
 card6.addEventListener("mouseleave", outD6, false);
 
 // Karta den 7//
@@ -135,7 +135,7 @@ if (moreD7.style.display === "none") {
 
 function outD7 () {moreD7.style.display = "none"; clickD7.innerHTML = "Ukázat";}
 
-clickD7.addEventListener("click", day7, false);
+card7.addEventListener("click", day7, false);
 card7.addEventListener("mouseleave", outD7, false);
 
 // Karta den 8//
@@ -155,7 +155,7 @@ if (moreD8.style.display === "none") {
 
 function outD8 () {moreD8.style.display = "none"; clickD8.innerHTML = "Ukázat";}
 
-clickD8.addEventListener("click", day8, false);
+card8.addEventListener("click", day8, false);
 card8.addEventListener("mouseleave", outD8, false);
 
 // Karta den 9//
@@ -175,7 +175,7 @@ if (moreD9.style.display === "none") {
 
 function outD9 () {moreD9.style.display = "none"; clickD9.innerHTML = "Ukázat";}
 
-clickD9.addEventListener("click", day9, false);
+card9.addEventListener("click", day9, false);
 card9.addEventListener("mouseleave", outD9, false);
 
 // Karta den 10//
@@ -195,7 +195,7 @@ if (moreD10.style.display === "none") {
 
 function outD10 () {moreD10.style.display = "none"; clickD10.innerHTML = "Ukázat";}
 
-clickD10.addEventListener("click", day10, false);
+card10.addEventListener("click", day10, false);
 card10.addEventListener("mouseleave", outD10, false);
 
 // Karta den 11//
@@ -215,7 +215,7 @@ if (moreD11.style.display === "none") {
 
 function outD11 () {moreD11.style.display = "none"; clickD11.innerHTML = "Ukázat";}
 
-clickD11.addEventListener("click", day11, false);
+card11.addEventListener("click", day11, false);
 card11.addEventListener("mouseleave", outD11, false);
 
 // Karta den 12//
@@ -235,7 +235,7 @@ if (moreD12.style.display === "none") {
 
 function outD12 () {moreD12.style.display = "none"; clickD12.innerHTML = "Ukázat";}
 
-clickD12.addEventListener("click", day12, false);
+card12.addEventListener("click", day12, false);
 card12.addEventListener("mouseleave", outD12, false);
 
 // Karta den 13//
@@ -255,7 +255,7 @@ if (moreD13.style.display === "none") {
 
 function outD13 () {moreD13.style.display = "none"; clickD13.innerHTML = "Ukázat";}
 
-clickD13.addEventListener("click", day13, false);
+card13.addEventListener("click", day13, false);
 card13.addEventListener("mouseleave", outD13, false);
 
 // Karta den 14//
@@ -275,7 +275,7 @@ if (moreD14.style.display === "none") {
 
 function outD14 () {moreD14.style.display = "none"; clickD14.innerHTML = "Ukázat";}
 
-clickD14.addEventListener("click", day14, false);
+card14.addEventListener("click", day14, false);
 card14.addEventListener("mouseleave", outD14, false);
 
 // Karta den 15//
@@ -295,7 +295,7 @@ if (moreD15.style.display === "none") {
 
 function outD15 () {moreD15.style.display = "none"; clickD15.innerHTML = "Ukázat";}
 
-clickD15.addEventListener("click", day15, false);
+card15.addEventListener("click", day15, false);
 card15.addEventListener("mouseleave", outD15, false);
 
 // Karta den 16//
@@ -315,7 +315,7 @@ if (moreD16.style.display === "none") {
 
 function outD16 () {moreD16.style.display = "none"; clickD16.innerHTML = "Ukázat";}
 
-clickD16.addEventListener("click", day16, false);
+card16.addEventListener("click", day16, false);
 card16.addEventListener("mouseleave", outD16, false);
 
 // Karta den 17//
@@ -335,7 +335,7 @@ if (moreD17.style.display === "none") {
 
 function outD17 () {moreD17.style.display = "none"; clickD17.innerHTML = "Ukázat";}
 
-clickD17.addEventListener("click", day17, false);
+card17.addEventListener("click", day17, false);
 card17.addEventListener("mouseleave", outD17, false);
 
 // Karta den 18//
@@ -355,7 +355,7 @@ if (moreD18.style.display === "none") {
 
 function outD18 () {moreD18.style.display = "none"; clickD18.innerHTML = "Ukázat";}
 
-clickD18.addEventListener("click", day18, false);
+card18.addEventListener("click", day18, false);
 card18.addEventListener("mouseleave", outD18, false);
 
 // Karta den 19//
@@ -375,7 +375,7 @@ if (moreD19.style.display === "none") {
 
 function outD19 () {moreD19.style.display = "none"; clickD19.innerHTML = "Ukázat";}
 
-clickD19.addEventListener("click", day19, false);
+card19.addEventListener("click", day19, false);
 card19.addEventListener("mouseleave", outD19, false);
 
 // Karta den 20//
@@ -395,7 +395,7 @@ if (moreD20.style.display === "none") {
 
 function outD20 () {moreD20.style.display = "none"; clickD20.innerHTML = "Ukázat";}
 
-clickD20.addEventListener("click", day20, false);
+card20.addEventListener("click", day20, false);
 card20.addEventListener("mouseleave", outD20, false);
 
 // Karta den 21//
@@ -415,5 +415,25 @@ if (moreD21.style.display === "none") {
 
 function outD21 () {moreD21.style.display = "none"; clickD21.innerHTML = "Ukázat";}
 
-clickD21.addEventListener("click", day21, false);
+card21.addEventListener("click", day21, false);
 card21.addEventListener("mouseleave", outD21, false);
+
+// Karta den 22//
+var clickD22 = document.getElementById("d22");
+var moreD22 = document.getElementById("moreD22");
+var card22 = document.getElementById("card22");
+
+function day22 () {
+if (moreD22.style.display === "none") {
+    moreD22.style.display = "inline";
+    clickD22.innerHTML = "Schovat";
+  } else {
+    moreD22.style.display = "none";
+    clickD22.innerHTML = "Ukázat";
+  }
+}
+
+function outD22 () {moreD22.style.display = "none"; clickD22.innerHTML = "Ukázat";}
+
+card22.addEventListener("click", day22, false);
+card22.addEventListener("mouseleave", outD22, false);
