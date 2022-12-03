@@ -518,3 +518,23 @@ function outD26 () {moreD26.style.display = "none"; clickD26.innerHTML = "Ukáza
 
 card26.addEventListener("click", day26, false);
 card26.addEventListener("mouseleave", outD26, false);
+
+// Karta den 27//
+var clickD27 = document.getElementById("d27");
+var moreD27 = document.getElementById("moreD27");
+var card27 = document.getElementById("card27");
+
+function day27 () {
+if (moreD27.style.display === "none") {
+    moreD27.style.display = "inline";
+    clickD27.innerHTML = "Schovat";
+  } else {
+    moreD27.style.display = "none";
+    clickD27.innerHTML = "Ukázat";
+  }
+}
+
+function outD27 () {moreD27.style.display = "none"; clickD27.innerHTML = "Ukázat";}
+
+card27.addEventListener("click", day27, false);
+card27.addEventListener("mouseleave", outD27, false);
