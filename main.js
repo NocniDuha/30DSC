@@ -538,3 +538,44 @@ function outD27 () {moreD27.style.display = "none"; clickD27.innerHTML = "Ukáza
 
 card27.addEventListener("click", day27, false);
 card27.addEventListener("mouseleave", outD27, false);
+
+// Karta den 28//
+var clickD28 = document.getElementById("d28");
+var moreD28 = document.getElementById("moreD28");
+var card28 = document.getElementById("card28");
+
+function day28 () {
+if (moreD28.style.display === "none") {
+    moreD28.style.display = "inline";
+    clickD28.innerHTML = "Schovat";
+  } else {
+    moreD28.style.display = "none";
+    clickD28.innerHTML = "Ukázat";
+  }
+}
+
+function outD28 () {moreD28.style.display = "none"; clickD28.innerHTML = "Ukázat";}
+
+card28.addEventListener("click", day28, false);
+card28.addEventListener("mouseleave", outD28, false);
+
+// Karta den 29//
+var clickD29 = document.getElementById("d29");
+var moreD29 = document.getElementById("moreD29");
+var card29 = document.getElementById("card29");
+
+function day29 () {
+if (moreD29.style.display === "none") {
+    moreD29.style.display = "inline";
+    clickD29.innerHTML = "Schovat";
+  } else {
+    moreD29.style.display = "none";
+    clickD29.innerHTML = "Ukázat";
+  }
+}
+
+function outD29 () {moreD29.style.display = "none"; clickD29.innerHTML = "Ukázat";}
+
+card29.addEventListener("click", day29, false);
+card29.addEventListener("mouseleave", outD29, false);
+
